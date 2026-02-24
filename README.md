@@ -1,6 +1,6 @@
 # Argentina Mining Dashboard (Power BI)
 
-![Dashboard preview](assets/screenshots/home.png)
+[![Dashboard preview](assets/screenshots/home.png)](https://francochacon.github.io/proyecto2/)
 
 ## 📊 Descripción del proyecto
 Este proyecto presenta un dashboard interactivo desarrollado en Power BI para analizar la evolución y la estructura de las exportaciones mineras de Argentina.
