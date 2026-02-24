@@ -10,7 +10,6 @@ Dashboard para analizar exportaciones mineras de Argentina, con foco en:
 
 ## Dashboard online
 - Sitio del portfolio: https://francochacon.github.io/proyecto2/
-- (Opcional) Link al reporte publicado en Power BI Service (si lo compartís)
 
 ## KPIs
 - **Año más exportado:** año con mayor FOB total.
