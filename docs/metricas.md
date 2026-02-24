@@ -1,59 +1,34 @@
-# Métricas del Dashboard Minero Argentino
 
-Este dashboard analiza la evolución de las exportaciones mineras de Argentina utilizando datos históricos de comercio exterior.
-
----
-
-## Año Máximo Histórico
-Identifica el año con mayor valor exportado total.
-
-Permite detectar picos históricos de actividad minera.
+- **powerbi/** → archivo del dashboard (.pbix)
+- **assets/** → capturas del proyecto
+- **docs/** → documentación técnica y métricas
 
 ---
 
-## Variación Interanual (YoY)
-Mide el crecimiento porcentual del valor exportado respecto al año anterior.
+## ▶ Cómo abrir el proyecto
 
-Fórmula:
-
-Variación % = (Valor Año Actual - Valor Año Anterior) / Valor Año Anterior
+1. Descargar `powerbi/Argentina-Mining-Dashboard.pbix`
+2. Abrir con Power BI Desktop
 
 ---
 
-## Sector Dominante
-Sector económico con mayor participación en el año de máxima exportación.
+## 🚧 Estado del proyecto
 
-Permite identificar la estructura productiva dominante.
+En desarrollo continuo.
 
----
+Próximas mejoras:
 
-## Mineral Más Exportado
-Mineral con mayor valor FOB dentro del año máximo histórico.
-
----
-
-## Participación del Mineral Dominante
-Porcentaje del valor exportado del mineral dominante respecto al total del año.
+- Página de análisis detallado por mineral
+- Tooltips enriquecidos
+- Segmentadores dinámicos
+- Visualizaciones comparativas interanuales
+- Optimización del diseño visual
 
 ---
 
-## Participación por Sector
-Distribución porcentual de las exportaciones entre sectores mineros.
+## 👤 Autor
 
----
+Franco Chacón  
+Data Analyst | Ingeniería | Power BI | Industria minera
 
-## Tendencia Histórica del Oro
-Serie temporal del valor exportado de oro en los últimos años.
-Permite analizar crecimiento estructural del mineral dominante.
-
----
-
-## Fuente de datos
-Datos oficiales de exportaciones mineras de Argentina.
-
----
-
-## Herramientas utilizadas
-- Power BI
-- DAX
-- Modelado dimensional
+Portfolio: https://francochacon.github.io
